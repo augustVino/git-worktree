@@ -1,0 +1,22 @@
+{
+  "name": "git-worktree",
+  "version": "1.0.0",
+  "description": "学习 git worktree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augustVino/git-worktree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/augustVino/git-worktree/issues"
+  },
+  "homepage": "https://github.com/augustVino/git-worktree#readme",
+  "dependencies": {
+    "vue": "^3.2.10"
+  }
+}

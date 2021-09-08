@@ -1,2 +1,3 @@
 # git-worktree
-learning git-worktree
+
+学习 git worktree
